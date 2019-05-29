@@ -1,2 +1,2 @@
-# ReactLeaning
-React leaning projects
+# ReactLearning
+React learning projects
